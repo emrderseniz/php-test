@@ -1,2 +1,2 @@
-# php-test
-php status test page
+# Test amaçlı php sayfası
+bazı temel bilgileri gösteren php kontrol sayfası
